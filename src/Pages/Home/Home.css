@@ -1,0 +1,8 @@
+.container{
+background-image: url('../../Images/Rectangle\ 1.png');
+/* background-color: black; */
+opacity: 0.4;
+background-size: cover;
+background-attachment: fixed;
+background-blend-mode: darken;
+}
